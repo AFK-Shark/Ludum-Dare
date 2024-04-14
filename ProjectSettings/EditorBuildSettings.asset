@@ -9,9 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/_StartMenu.unity
     guid: b39c8d0f8bb1def4ba3b4cd6ae63e182
   - enabled: 1
+    path: Assets/Scenes/RoomScenes.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
     path: Assets/Scenes/PCscenes.unity
     guid: 6060fe27f1eb2464b80e303ed8a20c48
   - enabled: 1
-    path: Assets/Scenes/FirstScenes.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/RadioScene.unity
+    guid: 3f63b899ac04fae45aa7821a8e602175
   m_configObjects: {}
