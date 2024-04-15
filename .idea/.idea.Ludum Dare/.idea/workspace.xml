@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cce33ac0-a21e-4ea1-aacd-b4c22353be17" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/ButtonRadio.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ButtonRadio.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/New Animation.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/New Animation.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SoundChange.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SoundChange.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sound/The-Caretaker-It_s-Just-A-Burning-Memory.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sound/The-Caretaker-It_s-Just-A-Burning-Memory.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sound/burningmemory_dark.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sound/burningmemory_dark.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TurnON.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TurnON.controller.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/RadioScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/RadioScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DontDestroy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DontDestroy.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sound/AudioMixer.mixer" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sound/AudioMixer.mixer" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2f8vS2oSYjRYjsdnE0UiJSCZ1EC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Merging main&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\user\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\user\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\user\\AppData\\Local\\Symbols\\src&quot;
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cce33ac0-a21e-4ea1-aacd-b4c22353be17" name="Changes" comment="" />
+      <created>1713195516575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713195516575</updated>
+      <workItem from="1713195521736" duration="7000" />
+      <workItem from="1713195704443" duration="142000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
