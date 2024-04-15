@@ -252,7 +252,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 464.36096
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -309,6 +309,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1131874785813192715, guid: 9831efece78472f4aba39298134598e4, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 6392.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 1131874785813192715, guid: 9831efece78472f4aba39298134598e4, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 4651.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 1131874785813192715, guid: 9831efece78472f4aba39298134598e4, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 237
+      objectReference: {fileID: 0}
+    - target: {fileID: 1131874785813192715, guid: 9831efece78472f4aba39298134598e4, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 4581
+      objectReference: {fileID: 0}
     - target: {fileID: 2466144477304610018, guid: 9831efece78472f4aba39298134598e4, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -445,6 +461,18 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 6422839730151870390, guid: 9831efece78472f4aba39298134598e4, type: 3}
+      propertyPath: options.Array.data[0]
+      value: 
+      objectReference: {fileID: 21300000, guid: 625a1bf026a23e1419c48bc3692acb6d, type: 3}
+    - target: {fileID: 6422839730151870390, guid: 9831efece78472f4aba39298134598e4, type: 3}
+      propertyPath: options.Array.data[1]
+      value: 
+      objectReference: {fileID: 21300000, guid: 3054b780ebffb8042b0d0134821e95e3, type: 3}
+    - target: {fileID: 6422839730151870390, guid: 9831efece78472f4aba39298134598e4, type: 3}
+      propertyPath: options.Array.data[2]
+      value: 
+      objectReference: {fileID: 21300000, guid: c0afa36a878fe904184d2313847d12be, type: 3}
     - target: {fileID: 6839373269604057594, guid: 9831efece78472f4aba39298134598e4, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
@@ -476,6 +504,38 @@ PrefabInstance:
     - target: {fileID: 6839373269604057594, guid: 9831efece78472f4aba39298134598e4, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 7376193121597113624, guid: 9831efece78472f4aba39298134598e4, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 8316.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 7376193121597113624, guid: 9831efece78472f4aba39298134598e4, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 5902.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 7376193121597113624, guid: 9831efece78472f4aba39298134598e4, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 237
+      objectReference: {fileID: 0}
+    - target: {fileID: 7376193121597113624, guid: 9831efece78472f4aba39298134598e4, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -4089
+      objectReference: {fileID: 0}
+    - target: {fileID: 7701478068274511635, guid: 9831efece78472f4aba39298134598e4, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 6778.709
+      objectReference: {fileID: 0}
+    - target: {fileID: 7701478068274511635, guid: 9831efece78472f4aba39298134598e4, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 6612.037
+      objectReference: {fileID: 0}
+    - target: {fileID: 7701478068274511635, guid: 9831efece78472f4aba39298134598e4, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -454
+      objectReference: {fileID: 0}
+    - target: {fileID: 7701478068274511635, guid: 9831efece78472f4aba39298134598e4, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -1515
       objectReference: {fileID: 0}
     - target: {fileID: 8496115049034097532, guid: 9831efece78472f4aba39298134598e4, type: 3}
       propertyPath: m_Name
