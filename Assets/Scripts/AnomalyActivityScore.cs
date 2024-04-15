@@ -3,38 +3,47 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
-public class AnomalyActivityScore : MonoBehaviour
+static class AnomalyActivityScore 
 {
-    [SerializeField] private TMP_Text _scoreText;
-    private static int _score = 50;
-
     
-    private void Awake()
+    private static int _score = 50;
+    
+    
+
+    public static int Score
     {
-        LoadScore();
-        _scoreText.text = $"Score: {_score}";
+        get => _score;
+        set => _score = value;
     }
 
-    public void OnValueChanged(bool IsCorrect)
+
+    private static void Awake()
+    {
+        LoadScore();
+        
+    }
+
+    public static void OnValueChanged(bool IsCorrect)
     {
         if (IsCorrect)
         {
-            _scoreText.text = $"Score: {_score += 20}"; ;
+            _score += 20;
         }
         else
         {
-            _scoreText.text = $"Score: {_score -= 30}"; 
-            
+            _score -= 30;
+
         }
     }
 
-    public void SaveScore() // если идет переход на другую сцену вызвать этот метод
+    public static void SaveScore() // если идет переход на другую сцену вызвать этот метод
     {
         PlayerPrefs.SetInt("score", _score);
     }
 
-    private void LoadScore()
+    private static void LoadScore()
     {
        
         int score = PlayerPrefs.GetInt("score");
@@ -49,9 +58,6 @@ public class AnomalyActivityScore : MonoBehaviour
         }
     }
 
-    public void Defeat()
-    {
-        // загрузить сцену проигрыша
-    }
+   
     
 }

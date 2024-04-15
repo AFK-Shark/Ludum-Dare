@@ -654,7 +654,6 @@ GameObject:
   - component: {fileID: 8277408776870198936}
   - component: {fileID: 6896956041178539983}
   - component: {fileID: 6422839730151870390}
-  - component: {fileID: 162499727378820560}
   m_Layer: 5
   m_Name: PhotoRedactor
   m_TagString: Untagged
@@ -759,20 +758,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   menuPanel: {fileID: 6682674323867666349}
+  _correctId: 0
   options:
   - {fileID: 21300000, guid: 92bb09291cc5d54439bcebfa3dca69da, type: 3}
   - {fileID: 21300000, guid: 8d8cf99eb2bee5d49b808e74e7786b10, type: 3}
   - {fileID: 21300000, guid: e7262dfe223716c4fa77f02bcbd81d46, type: 3}
---- !u!114 &162499727378820560
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8496115049034097532}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3b3900bad2d04b844b5ea043445a0698, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _scoreText: {fileID: 0}
+  _score: {fileID: 0}
