@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/RadioScene.unity
     guid: 3f63b899ac04fae45aa7821a8e602175
+  - enabled: 1
+    path: Assets/Scenes/DefeatScene.unity
+    guid: 68caac5e8028f0747896231358266e98
   m_configObjects: {}
