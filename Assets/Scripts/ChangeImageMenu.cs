@@ -39,8 +39,13 @@ public class ChangeImageMenu : MonoBehaviour
             if (optionIndex == _correctId)
             {
                 AnomalyActivityScore.OnValueChanged(true);
+                if (AnomalyActivityScore.Score >= 100)
+                {
+                    Victory();
+                }
                 _score.text = $"Score: {AnomalyActivityScore.Score}";
             }
+
             else
             {
                 AnomalyActivityScore.OnValueChanged(false);
@@ -58,4 +63,10 @@ public class ChangeImageMenu : MonoBehaviour
     {
         SceneManager.LoadScene(5);
     }
+
+    public void Victory()
+    {
+        SceneManager.LoadScene(6);
+    }
+
 }
